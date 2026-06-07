@@ -1,0 +1,29 @@
+# Module 3: Networking and Security (Google Cloud)
+
+## Overview
+This module focuses on networking, security, scalability, and monitoring in Google Cloud. It includes hands-on labs covering VPC networks, firewall rules, IAM roles, load balancing, Cloud Armor security, and Cloud Monitoring.
+
+---
+
+## Labs Completed
+
+- Lab 01: Multiple VPC Networks (GSP211)
+- Lab 02: VPC Networks Controlling Access (GSP213)
+- Lab 03: Load Balancer with Cloud Armor (GSP215)
+- Lab 04: Cloud Monitoring (GSP089)
+
+---
+
+## Skills Covered
+- VPC Networking
+- Firewall Rules
+- IAM Security
+- Load Balancing
+- Cloud Armor Security
+- Cloud Monitoring & Logging
+
+---
+
+## Outcome
+This module demonstrates a complete cloud infrastructure lifecycle:
+Networking → Security → Scaling → Observability
